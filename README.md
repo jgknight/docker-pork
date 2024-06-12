@@ -10,6 +10,15 @@ You can run pork by issuing the following
         -e AIM_SERVER='aim.chivanet.org' \
         -it jgknight/pork:latest
 
+Once it's running, you can issue `/help` to see the available commands.
+
+    /connect myusername
+    /away I'm not here!
+    /buddy add_group Bots
+    /buddy add smartersmarterchild Bots
+    /profile Welcome to my Profile, <b>%n!</b>
+    /msg smartersmarterchild Hello!
+
 Pork supports specifying the following env variables (`-e`):
 * `AIM_SERVER` - address of the OSCAR host to connect to
 * `AIM_PORT` - port number of the OSCAR host to connect to
