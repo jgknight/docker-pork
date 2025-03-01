@@ -1,7 +1,7 @@
 # Docker Image for Pork
 A Docker image for running the legacy AOL Instant Messenger (AIM) and IRC client 'pork' by [Ryan McCabe](http://dev.ojnk.org).
 
-For now this uses the binary from the Debian Stretch archives, which was the last Debian release to include it. It's very outdated and there are features that likely don't work.
+This currently uses the pork binary found in the Debian Stretch archives, which was the last Debian release to include it.
 
 ## Running Pork
 You can run pork by issuing the following
