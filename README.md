@@ -23,7 +23,10 @@ Pork supports specifying the following env variables (`-e`):
 * `AIM_SERVER` - address of the OSCAR host to connect to
 * `AIM_PORT` - port number of the OSCAR host to connect to
 
-While the original AIM servers are long gone, you can connect to modern open source servers such as running your own [Retro AIM Server](https://github.com/mk6i/retro-aim-server), or using a public AIM service such as [ChivaNet Internet Services](https://aim.chivanet.org).
+While the original servers are long gone, you can connect to modern AIM servers such as
+ * [Retro AIM Server](https://github.com/mk6i/retro-aim-server) - Free open source server for running your own AIM/ICQ service
+ * [ChivaNet Internet Services](https://aim.chivanet.org) - Free public AIM service
+ * [NINA](https://nina.chat) - Another popular public AIM service
 
 
 ## To Do
